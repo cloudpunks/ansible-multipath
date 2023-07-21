@@ -1,6 +1,6 @@
 ---
 repository:
-  name: multipath
+  name: ansible-multipath
   description: Ansible role to primary purge multipathd if not required
   topics: ansible, role, ansible-role, hacktoberfest
 
